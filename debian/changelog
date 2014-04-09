@@ -1,0 +1,5 @@
+python-zc-zookeeper-static (3.4.4-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Sebastien Badia <seb@sebian.fr>  Wed, 09 Apr 2014 17:59:29 +0200
